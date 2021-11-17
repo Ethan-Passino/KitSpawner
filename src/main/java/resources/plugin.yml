@@ -1,0 +1,13 @@
+main: me.TurtlesAreHot.KitSpawner.Main
+name: KitSpawner
+version: 1.0.0
+description: Kit spawner plugin
+author: TurtlesAreHot
+api-version: 1.13
+commands:
+  kitspawner:
+    description: Gets you a kit spawner
+permissions:
+  kitspawner.use:
+    description: Allows you to use the kit spawner command
+    default: op
